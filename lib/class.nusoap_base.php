@@ -125,7 +125,7 @@ class nusoap_base {
 	 * @var boolean
 	 * @access private
 	 */
-	var $charencoding = true;
+	var $charencoding = false;
 	/**
 	 * the debug level for this instance
 	 *
