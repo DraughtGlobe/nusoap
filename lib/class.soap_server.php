@@ -13,7 +13,7 @@
 * @version  $Id: class.soap_server.php,v 1.63 2010/04/26 20:15:08 snichol Exp $
 * @access   public
 */
-class __construct extends nusoap_base {
+class nusoap_server extends nusoap_base {
 	/**
 	 * HTTP headers of request
 	 * @var array
